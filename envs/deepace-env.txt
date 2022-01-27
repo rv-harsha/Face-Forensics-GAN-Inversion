@@ -1,0 +1,45 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2021.5.30-ha878542_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ld_impl_linux-64-2.36.1-hea4e1c9_2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libgfortran5-11.1.0-h6c583b3_8.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libstdcxx-ng-11.1.0-h56837e0_8.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libgfortran-ng-11.1.0-h69a702a_8.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libgomp-11.1.0-hc902ee8_8.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-1_gnu.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libgcc-ng-11.1.0-hc902ee8_8.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/jpeg-9d-h36c2ea0_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libffi-3.3-h58526e2_2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libopenblas-0.3.17-pthreads_h8fe5266_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.2-h58526e2_4.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/openssl-1.1.1k-h7f98852_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.5-h516909a_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h516909a_1010.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libblas-3.9.0-11_linux64_openblas.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libpng-1.6.37-h21135ba_2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/readline-8.1-h46c0cb4_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.11-h21135ba_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libcblas-3.9.0-11_linux64_openblas.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/liblapack-3.9.0-11_linux64_openblas.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.36.0-h9cd32fc_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/python-3.7.10-hffdb5ce_100_cpython.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/appdirs-1.4.4-pyh9f0ad1d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/dataclasses-0.8-pyhc8e2a94_3.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/pathspec-0.9.0-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/python_abi-3.7-2_cp37m.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/tomli-1.2.1-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/typing_extensions-3.10.0.0-pyha770c72_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/wheel-0.37.0-pyhd8ed1ab_1.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/zipp-3.5.0-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/dlib-19.22.0-py37hc3f859c_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/importlib-metadata-4.8.1-py37h89c1867_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/mypy_extensions-0.4.3-py37h89c1867_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/regex-2021.8.28-py37h5e8e339_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-57.4.0-py37h89c1867_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/typed-ast-1.4.3-py37h5e8e339_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/click-8.0.1-py37h89c1867_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/pip-21.2.4-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/black-21.7b0-pyhd8ed1ab_0.tar.bz2
